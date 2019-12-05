@@ -2,6 +2,23 @@
 
 > this is project
 
+下载并提交运行步骤：
+git clone XXXXXXX.git //克隆项目
+
+npm install //下载依赖包
+
+git add . //添加到暂时存储的仓库
+
+git commit -m "提交说明" //提交说明
+
+git  status //查看状态
+
+git pull //与远程仓库内容拉下，以防出现冲突
+
+git push //推送到远程仓库
+
+
+
 ## Build Setup
 
 ``` bash
